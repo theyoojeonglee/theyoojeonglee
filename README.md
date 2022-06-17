@@ -1,6 +1,6 @@
 👋&nbsp;Hi, I’m **Yoojeong Lee**!  
 
-🏢 I'm currently working at [GE Appliances](https://www.geappliances.com/) as an **Embedded Software Engineer**.  
+🏢 I'm currently working at **GE Appliances** as an **Embedded Software Engineer**.  
 
 🧑🏻‍🎓 I graduated from **POSTECH**, the department of Creative IT Engineering.  
 
