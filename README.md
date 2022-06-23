@@ -7,7 +7,7 @@
 👀 I’m interested in **Embedded Software** and **Hardware**, **Web Development** and **AI**.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other than IT, i'm interested in **psychology** and **music**. 
 
-🤖 I'm currently working on an Express.js based [server](https://github.com/theyoojeonglee/hackathon_node) for my company's hackathon.
+🤖 I'm currently working on an Express.js based [server](https://github.com/theyoojeonglee/hackathon_server) for my company's hackathon.
 
 👩🏻‍💻 Also, I'm currently working on a [personal web project](https://github.com/theyoojeonglee/moodtracker) regarding mood.
    
